@@ -1,2 +1,2 @@
 # DLUTIR_NLPResource
-资源上传
+欢迎大家分享上传资源！
